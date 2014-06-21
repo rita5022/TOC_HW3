@@ -14,7 +14,7 @@ if(len(sys.argv)==5):
 	response = urllib2.urlopen(url)
 	data = json.load(response)
 	
-	data_len = len(data) #data總共大小0~15177
+	data_len = len(data) #data總共大小
 	count = 0
 	zz='00'
 	money = 0
