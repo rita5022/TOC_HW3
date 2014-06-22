@@ -1,6 +1,7 @@
 # -*- coding:utf8 -*-
-# TocHw3:find the average of all sale prices matching the condition as the arguments
-# Example : python TocHw3.py http://www.datagarage.io/api/5365dee31bc6e9d9463a0057 楊梅市 金山街 103
+# Program:TocHw3
+# Description:find the average of all sale prices matching the condition as the arguments
+# Example:python TocHw3.py http://www.datagarage.io/api/5365dee31bc6e9d9463a0057 楊梅市 金山街 103
 
 # Name:蘇容德
 # Student Number:F74001218
