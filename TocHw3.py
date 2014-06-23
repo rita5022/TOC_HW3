@@ -9,6 +9,8 @@
 import json
 import urllib2
 import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 if(len(sys.argv)==5):
 	url = sys.argv[1]
