@@ -31,7 +31,10 @@ if(len(sys.argv)==5):
 				
 		count = count + 1
 
-	print money/num
+	if num>=1:
+		print money/num
+	else:
+		print "There's no matching conditions"
 
 else:
 	print "The number of input argument is wrong"
